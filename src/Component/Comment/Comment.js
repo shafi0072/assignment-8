@@ -3,7 +3,7 @@ import './Component.css'
 
 const Comment = (props) => {
     
-    const {postId, name, email,body, id} = props.comment
+    const {name,body, id} = props.comment
     return (
         <div className='main'>
             <div>
