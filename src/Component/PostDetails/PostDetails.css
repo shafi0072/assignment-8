@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main1{
+    display:flex;
+    justify-content:center;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(230, 228, 228);
+    
+}
+.homeButton{
+    width: 100px;
+    margin-right:10px;
+    padding: 10px;
+    border: none;
+    font-family: arial;
+    font-weight: bolder;
+    background-color: lightblue;
+    color: white;
+
+}
